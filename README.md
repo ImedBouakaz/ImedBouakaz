@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Imed Bouakaz
-- 👀 I’m interested in IT networks and pentesting
-- 🌱 I’m currently learning these during my studies in France
-- 📫 Don't hesitate to contact me on imed.bouakaz@gmail.com
+I'm Imed Bouakaz, a student in IT networking, sysadmin and cybersecurity.
+
+I hate programming, but I like Open Source and scriping can be fun....Sometimes.
